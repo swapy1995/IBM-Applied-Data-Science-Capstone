@@ -14,4 +14,4 @@ Machine Learning Models: Logistic Regression, SVM, Decision Tree, KNN
 Data Visualization: Folium, Plotly Dash
 SQL for Data Analysis
 
-## This project demonstrates end-to-end data science skills, from data collection to predictive modeling and visualization. 🚀
+#### This project demonstrates end-to-end data science skills, from data collection to predictive modeling and visualization. 🚀
